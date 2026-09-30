@@ -10,7 +10,7 @@ May your life always be filled with happiness,
 success, beautiful memories and amazing moments.
 
 Stay blessed, keep smiling,
-and always be the wonderful person you are. ❤️`,
+and always be the wonderful person you are and You shouldn't angry on me ❤️`,
 
   finalMessage: "Happy Birthday Once Again! 🎉❤️",
 
